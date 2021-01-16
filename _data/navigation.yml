@@ -1,9 +1,17 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "nextnormal.academy"
+    url: https://nextnormal.academy/
+
+sidebar:
+  - title: Schemes
+    children:
+      - title: "Advanced<br/>Product Owner"
+        url: /apo/
+  - title: Meta
+    children:
+      - title: "License"
+        url: /license/
+      - title: "Authors"
+        url: /authors/
+      - title: "Imprint"
+        url: /imprint/
